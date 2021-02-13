@@ -22,6 +22,16 @@ client.on('ready', () => {
     logger.info(`Logged in as ${client.user.tag}!`);
 });
 
+client.on("ready", () => {
+    client.user.setPresence({
+        game: { 
+            name: 'Habs',
+            type: 'WATCHING'
+        },
+        status: 'idle'
+    })
+})
+
 client.on('message', msg => {
     logger.info(`Got message: ${msg}`)
     if (msg.content === '!ping') {
@@ -30,7 +40,6 @@ client.on('message', msg => {
 });
 
 client.on('message', msg => {
-    guild = client.get_guild(ID)
     memberList = guild.members
     logger.info(`Got message: ${msg}`)
     if (msg.content === '!list') {
