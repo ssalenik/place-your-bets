@@ -22,6 +22,12 @@ client.on('ready', () => {
     logger.info(`Logged in as ${client.user.tag}!`);
 });
 
+// check that it is a game day
+const getDate = () => {
+    let todayDate = new Date();
+    return todayDate.toISOString().split('T')[0];
+  }
+
 client.on('message', msg => {
     logger.info(`Got message: ${msg}`)
     if (msg.content === '!ping') {
