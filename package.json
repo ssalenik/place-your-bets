@@ -1,0 +1,13 @@
+{
+    "name": "place-your-bets",
+    "version": "0.1.0",
+    "descriptions": "Hockey Night Bot",
+    "main": "bot.js",
+    "author": {
+        "name": "ssalenik"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "winston": "^3.3.3"
+    }
+}
