@@ -29,4 +29,13 @@ client.on('message', msg => {
     }
 });
 
+client.on('message', msg => {
+    guild = client.get_guild(ID)
+    memberList = guild.members
+    logger.info(`Got message: ${msg}`)
+    if (msg.content === '!list') {
+        msg.reply(`Hello ${memberList}`);
+    }
+});
+
 client.login(auth.token)
