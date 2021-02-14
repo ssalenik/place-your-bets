@@ -28,7 +28,7 @@ client.on("ready", () => {
             name: 'Habs',
             type: 'WATCHING'
         },
-        status: 'idle'
+        status: 'online'
     })
 })
 
@@ -39,11 +39,24 @@ client.on('message', msg => {
     }
 });
 
+// goal sirens
 client.on('message', msg => {
-    memberList = guild.members
-    logger.info(`Got message: ${msg}`)
+    if (msg.content === '!goal') {
+        msg.reply('Yes! :rotating_light: :rotating_light: :rotating_light:');
+    }
+});
+
+// money bags
+client.on('message', msg => {
+    if (msg.content === '!money') {
+        msg.reply("That's right :moneybag: :moneybag: :moneybag:");
+    }
+});
+
+
+client.on('message', msg => {
     if (msg.content === '!list') {
-        msg.reply(`Hello ${memberList}`);
+        msg.reply(`Hello ${msg.guild.name}`);
     }
 });
 
