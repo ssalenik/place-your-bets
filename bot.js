@@ -56,8 +56,9 @@ client.on('message', msg => {
 
 client.on('message', msg => {
     if (msg.content === '!list') {
+        const memberList = msg.guild.members.fetch().then(console.log(id => id.user)).catch(console.error);
         msg.channel.send(`Hello ${msg.guild.name}`);
-        msg.channel.send(`${msg.channel.members}`)
+        msg.channel.send(`${memberList}`);
     }
 });
 
