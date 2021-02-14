@@ -42,21 +42,22 @@ client.on('message', msg => {
 // goal sirens
 client.on('message', msg => {
     if (msg.content === '!goal') {
-        msg.reply('Yes! :rotating_light: :rotating_light: :rotating_light:');
+        msg.channel.send(':rotating_light: :rotating_light: :rotating_light:');
     }
 });
 
 // money bags
 client.on('message', msg => {
     if (msg.content === '!money') {
-        msg.reply("That's right :moneybag: :moneybag: :moneybag:");
+        msg.channel.send(':moneybag: :moneybag: :moneybag:');
     }
 });
 
 
 client.on('message', msg => {
     if (msg.content === '!list') {
-        msg.reply(`Hello ${msg.guild.name}`);
+        msg.channel.send(`Hello ${msg.guild.name}`);
+        msg.channel.send(`${msg.channel.members}`)
     }
 });
 
