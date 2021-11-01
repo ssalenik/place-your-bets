@@ -1,0 +1,1646 @@
+BEGIN:VCALENDAR
+NAME:Montreal Canadiens - Canadiens
+X-WR-CALNAME:Montreal Canadiens - Canadiens
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Lightning
+END:VALARM
+DTSTART:20210703T000000Z
+DTEND:20210703T030000Z
+UID:Sa1_Dmz1QzkizjVcfk5tLVSD@stanza.co
+SUMMARY:Canadiens vs. Lightning
+DESCRIPTION:Canadiens vs. Lightning\n\n\n\n🏒  Shop Montreal Canadiens https://stza.co/+PGkx-V?trk=NlcZ\n\nBuy Tickets https://stza.co/+PGkx-2a?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Lightning
+END:VALARM
+DTSTART:20210706T000000Z
+DTEND:20210706T030000Z
+UID:_7qbV7jtJ1uSRQySnGzG3yCH@stanza.co
+SUMMARY:Canadiens vs. Lightning
+DESCRIPTION:Canadiens vs. Lightning\n\n\n\n🏒  Shop Montreal Canadiens https://stza.co/+PGkB-1p?trk=NlcZ\n\nBuy Tickets https://stza.co/+PGkB-3D?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Lightning
+END:VALARM
+DTSTART:20210708T000000Z
+DTEND:20210708T030000Z
+UID:YFauYWbHhWfs_SUfT7YfF9ZM@stanza.co
+SUMMARY:Canadiens at Lightning
+DESCRIPTION:Canadiens at Lightning\n\n\n\n🏒  Shop Montreal Canadiens https://stza.co/+PGkF-2z?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:AMALIE Arena
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Maple Leafs (Preseason)
+END:VALARM
+DTSTART:20210925T230000Z
+DTEND:20210926T020000Z
+UID:Yr6Amc07hzWTe4iBmcrEX2v6@stanza.co
+SUMMARY:Canadiens at Maple Leafs (Preseason)
+DESCRIPTION:Canadiens at Maple Leafs (Preseason)\n\n🎟️ Buy tickets here: https://stza.co/~PA8a?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PA8a-35?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Scotiabank Arena\, 40 Bay St\, Toronto\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Maple Leafs (Preseason)
+END:VALARM
+DTSTART:20210927T230000Z
+DTEND:20210928T020000Z
+UID:iLWCGxkep-bRQhkHYlquWuMu@stanza.co
+SUMMARY:Canadiens vs. Maple Leafs (Preseason)
+DESCRIPTION:Canadiens vs. Maple Leafs (Preseason)\n\n🎟️ Buy tickets here: https://stza.co/~PwMz?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PwMz-3L?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Senators (Preseason)
+END:VALARM
+DTSTART:20211001T230000Z
+DTEND:20211002T020000Z
+UID:HHPkSSg4-oT3VTLJwrO98XRI@stanza.co
+SUMMARY:Canadiens at Senators (Preseason)
+DESCRIPTION:Canadiens at Senators (Preseason)\n\n🎟️ Buy tickets here: https://stza.co/~PMj3?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PMj3-2S?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Canadian Tire Centre\, 1000 Palladium Dr\, Ottawa\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Senators (Preseason)
+END:VALARM
+DTSTART:20211002T230000Z
+DTEND:20211003T020000Z
+UID:INDgdZxX-jN0hn9jmS_vn442@stanza.co
+SUMMARY:Canadiens vs. Senators (Preseason)
+DESCRIPTION:Canadiens vs. Senators (Preseason)\n\n🎟️ Buy tickets here: https://stza.co/~Po5o?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Po5o-3d?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Maple Leafs (Preseason)
+END:VALARM
+DTSTART:20211005T230000Z
+DTEND:20211006T020000Z
+UID:9gxs-BKJ0KDZUtPNgvxOwgo6@stanza.co
+SUMMARY:Canadiens at Maple Leafs (Preseason)
+DESCRIPTION:Canadiens at Maple Leafs (Preseason)\n\n🎟️ Buy tickets here: https://stza.co/~Po5s?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Po5s-1i?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Scotiabank Arena\, 40 Bay St\, Toronto\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT240M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Senators (Preseason)
+END:VALARM
+DTSTART:20211007T230000Z
+DTEND:20211008T020000Z
+UID:nRRLL3SWStuFMCc8BG7o7ncT@stanza.co
+SUMMARY:Canadiens vs. Senators (Preseason)
+DESCRIPTION:Canadiens vs. Senators (Preseason)\n\n🎟️ Buy tickets here: https://stza.co/~Po5x?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Po5x-3m?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Maple Leafs
+END:VALARM
+DTSTART:20211013T230000Z
+DTEND:20211014T020000Z
+UID:AC0yvKhLFlgxzYfwM6O0aRBc@stanza.co
+SUMMARY:Canadiens at Maple Leafs
+DESCRIPTION:Canadiens at Maple Leafs\n\n🎟️ Buy tickets here: https://stza.co/~Pab0?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pab0-3r?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Scotiabank Arena\, 40 Bay St\, Toronto\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Sabres
+END:VALARM
+DTSTART:20211014T230000Z
+DTEND:20211015T020000Z
+UID:EuIjc1fiWeJQ6-pMrIzOTQo4@stanza.co
+SUMMARY:Canadiens at Sabres
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Pab3?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pab3-2z?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:KeyBank Center\, 1 Seymour H Knox III Plaza\, Buffalo\, NY
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Rangers
+END:VALARM
+DTSTART:20211016T230000Z
+DTEND:20211017T020000Z
+UID:Tq1227O7CyVNXyCV-ynS-Cft@stanza.co
+SUMMARY:Canadiens vs. Rangers
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PDnP?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDnP-3A?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Sharks
+END:VALARM
+DTSTART:20211019T230000Z
+DTEND:20211020T020000Z
+UID:nP1eCKf53BAA_lBA0NMuCuE5@stanza.co
+SUMMARY:Canadiens vs. Sharks
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDod?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDod-2N?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Hurricanes
+END:VALARM
+DTSTART:20211021T230000Z
+DTEND:20211022T020000Z
+UID:LJaG0D5hapg3lvUhrsH7TkPe@stanza.co
+SUMMARY:Canadiens vs. Hurricanes
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDoY?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDoY-1j?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Red Wings
+END:VALARM
+DTSTART:20211023T230000Z
+DTEND:20211024T020000Z
+UID:yaL89u3xlSDCW8yX2Z8_ml8y@stanza.co
+SUMMARY:Canadiens vs. Red Wings
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY\n\n🎟️ Buy tickets here: https://stza.co/~PDps?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDps-2B?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Kraken
+END:VALARM
+DTSTART:20211027T020000Z
+DTEND:20211027T050000Z
+UID:3Qjh11RDpED_KDsyLTb2r34W@stanza.co
+SUMMARY:Canadiens at Kraken
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDpT?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDpT-3W?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Climate Pledge Arena
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Sharks
+END:VALARM
+DTSTART:20211029T023000Z
+DTEND:20211029T053000Z
+UID:KKwtLd-qnD1Y9VNELiFdELUu@stanza.co
+SUMMARY:Canadiens at Sharks
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDqc?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDqc-2C?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:SAP Center\, 525 W Santa Clara St\, San Jose\, CA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Kings
+END:VALARM
+DTSTART:20211030T200000Z
+DTEND:20211030T230000Z
+UID:YvWeBqMsG1G0N2Bd2-qoANe6@stanza.co
+SUMMARY:Canadiens at Kings
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDrj-$?trk=NlcZ\n\nBuy Tickets https://stza.co/+PDrj-11?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:STAPLES Center\, 1111 S Figueroa St\, Los Angeles\, CA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Ducks
+END:VALARM
+DTSTART:20211031T200000Z
+DTEND:20211031T230000Z
+UID:KW-FXU7mZd1CrhQE-22T-_Mm@stanza.co
+SUMMARY:Canadiens at Ducks
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDs0?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDs0-3L?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Honda Center\, 2695 E Katella Ave\, Anaheim\, CA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Red Wings
+END:VALARM
+DTSTART:20211102T230000Z
+DTEND:20211103T020000Z
+UID:TE3kz2_z21d1hkMje2-iDjAU@stanza.co
+SUMMARY:Canadiens vs. Red Wings
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDsF?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDsF-3C?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Islanders
+END:VALARM
+DTSTART:20211104T230000Z
+DTEND:20211105T020000Z
+UID:vt1OCil-TaxTXn_VsFXZ-Viu@stanza.co
+SUMMARY:Canadiens vs. Islanders
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDte?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDte-1?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Golden Knights
+END:VALARM
+DTSTART:20211106T230000Z
+DTEND:20211107T020000Z
+UID:9Mf4nO6jGvTHY61QWNxV7DB8@stanza.co
+SUMMARY:Canadiens vs. Golden Knights
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PDtX?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDtX-3B?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Kings
+END:VALARM
+DTSTART:20211110T000000Z
+DTEND:20211110T030000Z
+UID:oW-qUht4Ynb16roC8uyYHkkj@stanza.co
+SUMMARY:Canadiens vs. Kings
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDuQ?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDuQ-1e?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Flames
+END:VALARM
+DTSTART:20211112T000000Z
+DTEND:20211112T030000Z
+UID:VEb7vODNmVKVeLIbUbJ_AonC@stanza.co
+SUMMARY:Canadiens vs. Flames
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDvH?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDvH-D?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Red Wings
+END:VALARM
+DTSTART:20211114T000000Z
+DTEND:20211114T030000Z
+UID:am2pZf8OW0-X5fFP02EJUhpR@stanza.co
+SUMMARY:Canadiens at Red Wings
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PDwb?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDwb-20?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Little Caesars Arena\, 2645 Woodward Avenue\, Detroit\, MI
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Bruins
+END:VALARM
+DTSTART:20211115T000000Z
+DTEND:20211115T030000Z
+UID:rhzXIyFubJcKba55CtY0FDQC@stanza.co
+SUMMARY:Canadiens at Bruins
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDwK?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDwK-1q?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:TD Garden\, 100 Legends Way\, Boston\, MA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Rangers
+END:VALARM
+DTSTART:20211117T000000Z
+DTEND:20211117T030000Z
+UID:Xndm8N_7iftCM3Aj3toBZkYa@stanza.co
+SUMMARY:Canadiens at Rangers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDxq?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDxq-2D?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Madison Square Garden\, 4 Pennsylvania Plaza\, New York\, NY
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Penguins
+END:VALARM
+DTSTART:20211119T000000Z
+DTEND:20211119T030000Z
+UID:5RiyHQ7mIH2tueuQV6D7doFZ@stanza.co
+SUMMARY:Canadiens vs. Penguins
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDyu?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDyu-d?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Predators
+END:VALARM
+DTSTART:20211121T000000Z
+DTEND:20211121T030000Z
+UID:IlcgQ8Q6ybJ183uooSBsEEQ7@stanza.co
+SUMMARY:Canadiens vs. Predators
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~Padj?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Padj-2B?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Capitals
+END:VALARM
+DTSTART:20211125T000000Z
+DTEND:20211125T030000Z
+UID:Ivdx88cQDTVzyfCVA9MiHqnL@stanza.co
+SUMMARY:Canadiens at Capitals
+DESCRIPTION:Go Habs Go!\nWatch live on SN1 or SNE or SNO or RDS\n\n🎟️ Buy tickets here: https://stza.co/~Padn?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Padn-30?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Capital One Arena\, 601 F St NW\, Washington\, DC
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Sabres
+END:VALARM
+DTSTART:20211127T000000Z
+DTEND:20211127T030000Z
+UID:su7o-GlZMt_GAyDzK_4fR5QR@stanza.co
+SUMMARY:Canadiens at Sabres
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Padq?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Padq-1y?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:KeyBank Center\, 1 Seymour H Knox III Plaza\, Buffalo\, NY
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Penguins
+END:VALARM
+DTSTART:20211128T000000Z
+DTEND:20211128T030000Z
+UID:slP5XaKXzW6Nf7rNP7a1cr0M@stanza.co
+SUMMARY:Canadiens at Penguins
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or SNE or SNO\n\n🎟️ Buy tickets here: https://stza.co/~PDz$?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDz$-1q?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:PPG Paints Arena\, 1001 Fifth Ave\, Pittsburgh\, PA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Canucks
+END:VALARM
+DTSTART:20211130T003000Z
+DTEND:20211130T033000Z
+UID:kRgkXt1-qhENsk0ZN76DbVbg@stanza.co
+SUMMARY:Canadiens vs. Canucks
+DESCRIPTION:Go Habs Go!\nWatch live on SNE or SNO or SNP or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PadC?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PadC-32?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Avalanche
+END:VALARM
+DTSTART:20211203T000000Z
+DTEND:20211203T030000Z
+UID:cC960nBgmi1SZwdPayK3fexZ@stanza.co
+SUMMARY:Canadiens vs. Avalanche
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDBd?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDBd-2w?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Predators
+END:VALARM
+DTSTART:20211205T000000Z
+DTEND:20211205T030000Z
+UID:---8d77K-F8fS2Pzy_OAoYGi@stanza.co
+SUMMARY:Canadiens at Predators
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PadI?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PadI-38?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bridgestone Arena\, 501 Broadway\, Nashville\, TN
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Lightning
+END:VALARM
+DTSTART:20211208T000000Z
+DTEND:20211208T030000Z
+UID:4hbcMU9Z0PY59reCRHKAGUwi@stanza.co
+SUMMARY:Canadiens vs. Lightning
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDCv?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDCv-1n?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Blackhawks
+END:VALARM
+DTSTART:20211210T000000Z
+DTEND:20211210T030000Z
+UID:MFDnQ9v-u_Xra-VvADgqBeBL@stanza.co
+SUMMARY:Canadiens vs. Blackhawks
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDD7?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDD7-31?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Blues
+END:VALARM
+DTSTART:20211212T000000Z
+DTEND:20211212T030000Z
+UID:9nB-ZsOxaSNk1oUIHi47t2KZ@stanza.co
+SUMMARY:Canadiens at Blues
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PDDC?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDDC-1f?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Enterprise Center\, 1401 Clark Ave\, St. Louis\, MO 63103
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Penguins
+END:VALARM
+DTSTART:20211215T000000Z
+DTEND:20211215T030000Z
+UID:STANqyOV1CuPwglhA02WMiY6@stanza.co
+SUMMARY:Canadiens at Penguins
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDE9?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDE9-3v?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:PPG Paints Arena\, 1001 Fifth Ave\, Pittsburgh\, PA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Flyers
+END:VALARM
+DTSTART:20211217T000000Z
+DTEND:20211217T030000Z
+UID:xfvxEqwwHquDhHUggNKaRGtU@stanza.co
+SUMMARY:Canadiens vs. Flyers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PadZ?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PadZ-2a?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Bruins
+END:VALARM
+DTSTART:20211219T000000Z
+DTEND:20211219T030000Z
+UID:4sH6t88kFkn36aGxpopMcwXj@stanza.co
+SUMMARY:Canadiens vs. Bruins
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or CITY\n\n🎟️ Buy tickets here: https://stza.co/~PDEX?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDEX-2V?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Islanders
+END:VALARM
+DTSTART:20211221T000000Z
+DTEND:20211221T030000Z
+UID:B3qUD50wLP-lSh2krdTAutk6@stanza.co
+SUMMARY:Canadiens at Islanders
+DESCRIPTION:Go Habs Go!\nWatch live on SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~Pae6?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pae6-3p?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:UBS Arena
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Rangers
+END:VALARM
+DTSTART:20211223T000000Z
+DTEND:20211223T030000Z
+UID:m0RdXupAhoAPnT7f7Eg5c0kD@stanza.co
+SUMMARY:Canadiens at Rangers
+DESCRIPTION:Go Habs Go!\nWatch live on SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PDGB?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDGB-q?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Madison Square Garden\, 4 Pennsylvania Plaza\, New York\, NY
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Devils
+END:VALARM
+DTSTART:20211224T000000Z
+DTEND:20211224T030000Z
+UID:opbnPDR_YIRP3uC9ehoeqOBl@stanza.co
+SUMMARY:Canadiens at Devils
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDH7?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDH7-2J?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Lightning
+END:VALARM
+DTSTART:20211229T000000Z
+DTEND:20211229T030000Z
+UID:XXjbwh8_Zj6w0Z_dYeNq8Dvb@stanza.co
+SUMMARY:Canadiens at Lightning
+DESCRIPTION:Go Habs Go!\nWatch live on ESPN+ or HULU or RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDHL?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDHL-3G?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:AMALIE Arena
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Hurricanes
+END:VALARM
+DTSTART:20211231T000000Z
+DTEND:20211231T030000Z
+UID:AD_fvH2SXUhEnnHhT61xp5Py@stanza.co
+SUMMARY:Canadiens at Hurricanes
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDIf?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDIf-g?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:PNC Arena\, 1400 Edwards Mill Rd\, Raleigh\, NC
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Panthers
+END:VALARM
+DTSTART:20220101T180000Z
+DTEND:20220101T210000Z
+UID:e8eq0hZoEm-zzNvA-IzpC846@stanza.co
+SUMMARY:Canadiens at Panthers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDIV?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDIV-1T?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:FLA Live Arena
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Capitals
+END:VALARM
+DTSTART:20220105T000000Z
+DTEND:20220105T030000Z
+UID:zUHXskaML1sub4wbe4ni-7PD@stanza.co
+SUMMARY:Canadiens vs. Capitals
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDJW?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDJW-9?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Maple Leafs
+END:VALARM
+DTSTART:20220107T000000Z
+DTEND:20220107T030000Z
+UID:RcYK1ycFqo_mrMxYCo9Tdvhu@stanza.co
+SUMMARY:Canadiens vs. Maple Leafs
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PaeE?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PaeE-2h?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Sabres
+END:VALARM
+DTSTART:20220109T000000Z
+DTEND:20220109T030000Z
+UID:-9yjKvZfS47WHg73HtuPKmTq@stanza.co
+SUMMARY:Canadiens vs. Sabres
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PDKB?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDKB-1b?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Blue Jackets
+END:VALARM
+DTSTART:20220111T000000Z
+DTEND:20220111T030000Z
+UID:KnUdHaqK1vx7UsgqXWrafIVn@stanza.co
+SUMMARY:Canadiens vs. Blue Jackets
+DESCRIPTION:Go Habs Go!\nWatch live on SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PDLh?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDLh-1p?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Bruins
+END:VALARM
+DTSTART:20220113T000000Z
+DTEND:20220113T030000Z
+UID:j0Z7fDHo26ljRIhM9a6lTTAZ@stanza.co
+SUMMARY:Canadiens vs. Bruins
+DESCRIPTION:Go Habs Go!\nWatch live on TNT or SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PaeU?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PaeU-3b?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Blackhawks
+END:VALARM
+DTSTART:20220114T013000Z
+DTEND:20220114T043000Z
+UID:iVMOaWvwCsqiEMAdp25_tIxF@stanza.co
+SUMMARY:Canadiens at Blackhawks
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDL_?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDL_-11?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Devils
+END:VALARM
+DTSTART:20220115T180000Z
+DTEND:20220115T210000Z
+UID:tTDGt_jB2BdwxC_soGJaw4KP@stanza.co
+SUMMARY:Canadiens vs. Devils
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Paf7?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Paf7-3H?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Coyotes
+END:VALARM
+DTSTART:20220117T210000Z
+DTEND:20220118T000000Z
+UID:B0v7a286rHw7zvkWIoITaICY@stanza.co
+SUMMARY:Canadiens at Coyotes
+DESCRIPTION:Go Habs Go!\nWatch live on ESPN+ or HULU or RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Pafa?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pafa-D?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Gila River Arena\, 9400 W Maryland Ave\, Glendale\, AZ
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Stars
+END:VALARM
+DTSTART:20220119T013000Z
+DTEND:20220119T043000Z
+UID:GVaZN9lAk0-6VpjdXsICWvX3@stanza.co
+SUMMARY:Canadiens at Stars
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDN9?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDN9-15?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:American Airlines Center\, 2500 Victory Ave\, Dallas\, TX
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Golden Knights
+END:VALARM
+DTSTART:20220121T030000Z
+DTEND:20220121T060000Z
+UID:OdrakisnWBNmQQKYX8-967Kf@stanza.co
+SUMMARY:Canadiens at Golden Knights
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pafj-20?trk=NlcZ\n\nBuy Tickets https://stza.co/+Pafj-1x?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:T-Mobile Arena\, 3780 Arena Dr\, Las Vegas\, NV
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Avalanche
+END:VALARM
+DTSTART:20220123T000000Z
+DTEND:20220123T030000Z
+UID:eOHLhfWGpP8jojTMC4U_2JeE@stanza.co
+SUMMARY:Canadiens at Avalanche
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE or SNP\n\n🎟️ Buy tickets here: https://stza.co/~PDNQ?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDNQ-2X?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Ball Arena\, 1000 Chopper Cir\, Denver\, CO
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Wild
+END:VALARM
+DTSTART:20220125T010000Z
+DTEND:20220125T040000Z
+UID:sAWBPXxhrQ9DSWHp1ia6ARJ6@stanza.co
+SUMMARY:Canadiens at Wild
+DESCRIPTION:Go Habs Go!\nWatch live on SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PDOl?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDOl-14?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Xcel Energy Center\, 199 W Kellogg Blvd\, St Paul\, MN
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Ducks
+END:VALARM
+DTSTART:20220128T000000Z
+DTEND:20220128T030000Z
+UID:l7HG_fE8b0i138hhggCs7891@stanza.co
+SUMMARY:Canadiens vs. Ducks
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDP9?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDP9-1N?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Oilers
+END:VALARM
+DTSTART:20220130T000000Z
+DTEND:20220130T030000Z
+UID:Py394Xn-Hhg2ptGj_kUoXacN@stanza.co
+SUMMARY:Canadiens vs. Oilers
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or CITY\n\n🎟️ Buy tickets here: https://stza.co/~PDPM?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDPM-3L?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Blue Jackets
+END:VALARM
+DTSTART:20220131T000000Z
+DTEND:20220131T030000Z
+UID:uBUZ1Yev6rntm6bhyDVGLSHl@stanza.co
+SUMMARY:Canadiens vs. Blue Jackets
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PafQ?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PafQ-3Y?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Blues
+END:VALARM
+DTSTART:20220202T000000Z
+DTEND:20220202T030000Z
+UID:tp5dWDtxVq-URzIVYQuUx5rt@stanza.co
+SUMMARY:Canadiens vs. Blues
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Paf_?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Paf_-1b?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Senators
+END:VALARM
+DTSTART:20220227T000000Z
+DTEND:20220227T030000Z
+UID:d7gzL9D1ga0OPdZbXKSNonnl@stanza.co
+SUMMARY:Canadiens at Senators
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or CITY\n\n🎟️ Buy tickets here: https://stza.co/~PDQR?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDQR-3z?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Canadian Tire Centre\, 1000 Palladium Dr\, Ottawa\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Jets
+END:VALARM
+DTSTART:20220302T010000Z
+DTEND:20220302T040000Z
+UID:1MVfXJGuovW86wI5rW1r0Ifs@stanza.co
+SUMMARY:Canadiens at Jets
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Pag6?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pag6-1K?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Canada Life Centre
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Flames
+END:VALARM
+DTSTART:20220304T020000Z
+DTEND:20220304T050000Z
+UID:Pma0tyxRUKIKwBsZQqy4A5tC@stanza.co
+SUMMARY:Canadiens at Flames
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDRS?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDRS-6?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Scotiabank Saddledome\, 555 Saddledome Rise SE\, Calgary\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Oilers
+END:VALARM
+DTSTART:20220306T000000Z
+DTEND:20220306T030000Z
+UID:uVj-W3VOLjVFA7SgOUfdjcSm@stanza.co
+SUMMARY:Canadiens at Oilers
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or CITY\n\n🎟️ Buy tickets here: https://stza.co/~PDSy?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDSy-34?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Rogers Place\, Edmonton\, AB\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Canucks
+END:VALARM
+DTSTART:20220310T033000Z
+DTEND:20220310T063000Z
+UID:Zi5qmFq8n7XUzxIuIoj5LUsP@stanza.co
+SUMMARY:Canadiens at Canucks
+DESCRIPTION:Go Habs Go!\nWatch live on TNT or RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Pagu?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pagu-1p?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Rogers Arena\, 800 Griffiths Way\, Vancouver\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Kraken
+END:VALARM
+DTSTART:20220313T000000Z
+DTEND:20220313T030000Z
+UID:6lTf10NOh2dp3Y72Rl2MbpDK@stanza.co
+SUMMARY:Canadiens vs. Kraken
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or SNE or SNP\n\n🎟️ Buy tickets here: https://stza.co/~PagB?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PagB-g?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Flyers
+END:VALARM
+DTSTART:20220313T230000Z
+DTEND:20220314T020000Z
+UID:jdTIXN1bx5S9YUSonR4esGB9@stanza.co
+SUMMARY:Canadiens at Flyers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDU6-2j?trk=NlcZ\n\nBuy Tickets https://stza.co/+PDU6-35?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Wells Fargo Center\, 3601 S Broad St\, Philadelphia\, PA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Coyotes
+END:VALARM
+DTSTART:20220315T230000Z
+DTEND:20220316T020000Z
+UID:xHbGBusRVNSeWl_GUMXZeFGW@stanza.co
+SUMMARY:Canadiens vs. Coyotes
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PagT?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PagT-25?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Stars
+END:VALARM
+DTSTART:20220317T230000Z
+DTEND:20220318T020000Z
+UID:aNZl9Wm31860w4W2A5c2TNwp@stanza.co
+SUMMARY:Canadiens vs. Stars
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDUv?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDUv-17?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Senators
+END:VALARM
+DTSTART:20220319T230000Z
+DTEND:20220320T020000Z
+UID:qb4LQrOhncOyW3hiB3Diy9ZT@stanza.co
+SUMMARY:Canadiens vs. Senators
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or CITY\n\n🎟️ Buy tickets here: https://stza.co/~PDUP?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDUP-3C?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Bruins
+END:VALARM
+DTSTART:20220321T230000Z
+DTEND:20220322T020000Z
+UID:stIkUawwtQYHgV4bbQ5cAenY@stanza.co
+SUMMARY:Canadiens at Bruins
+DESCRIPTION:Go Habs Go!\nWatch live on SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PDV2?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDV2-39?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:TD Garden\, 100 Legends Way\, Boston\, MA
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Panthers
+END:VALARM
+DTSTART:20220324T230000Z
+DTEND:20220325T020000Z
+UID:fn93TG2ypmtpojG0rt8lDoul@stanza.co
+SUMMARY:Canadiens vs. Panthers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Pahx?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pahx-27?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Maple Leafs
+END:VALARM
+DTSTART:20220326T230000Z
+DTEND:20220327T020000Z
+UID:tzAQTIkx37gX8QW-QPLo2-l2@stanza.co
+SUMMARY:Canadiens vs. Maple Leafs
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or SN\n\n🎟️ Buy tickets here: https://stza.co/~PDVs?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDVs-3k?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Devils
+END:VALARM
+DTSTART:20220327T230000Z
+DTEND:20220328T020000Z
+UID:Ba1cdboCfDuFy6usQIoc90_j@stanza.co
+SUMMARY:Canadiens at Devils
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDVO?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDVO-3X?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Prudential Center\, 25 Lafayette St\, Newark\, NJ
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Panthers
+END:VALARM
+DTSTART:20220329T230000Z
+DTEND:20220330T020000Z
+UID:JCXKZBUQ6OgzAQaZZDEcJb1T@stanza.co
+SUMMARY:Canadiens at Panthers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PahV?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PahV-2Q?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:FLA Live Arena
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Hurricanes
+END:VALARM
+DTSTART:20220331T230000Z
+DTEND:20220401T020000Z
+UID:bNbrj0B9VXnaq09OehsV6zhC@stanza.co
+SUMMARY:Canadiens at Hurricanes
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~Pah_?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+Pah_-3J?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:PNC Arena\, 1400 Edwards Mill Rd\, Raleigh\, NC
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Lightning
+END:VALARM
+DTSTART:20220402T230000Z
+DTEND:20220403T020000Z
+UID:CwhCxvuvsrLaafAFwfersMBi@stanza.co
+SUMMARY:Canadiens at Lightning
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PDWP?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDWP-3d?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:AMALIE Arena
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Senators
+END:VALARM
+DTSTART:20220405T230000Z
+DTEND:20220406T020000Z
+UID:2arFhXDLzJRM7qZfbZm4oPna@stanza.co
+SUMMARY:Canadiens vs. Senators
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDX7?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDX7-25?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Maple Leafs
+END:VALARM
+DTSTART:20220409T230000Z
+DTEND:20220410T020000Z
+UID:9fsX4yv-cw4GOG1sXP7t5UYo@stanza.co
+SUMMARY:Canadiens at Maple Leafs
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or SNE or SNO\n\n🎟️ Buy tickets here: https://stza.co/~PDXm?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDXm-2l?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Scotiabank Arena\, 40 Bay St\, Toronto\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Jets
+END:VALARM
+DTSTART:20220411T230000Z
+DTEND:20220412T020000Z
+UID:R9cVjWQz4cW3T8f2cYuKYnnw@stanza.co
+SUMMARY:Canadiens vs. Jets
+DESCRIPTION:Go Habs Go!\nWatch live on SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PDXE?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDXE-16?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Blue Jackets
+END:VALARM
+DTSTART:20220413T230000Z
+DTEND:20220414T020000Z
+UID:3jpZUiBLYssHheG4_RG5nAWK@stanza.co
+SUMMARY:Canadiens at Blue Jackets
+DESCRIPTION:Go Habs Go!\nWatch live on SN or RDS\n\n🎟️ Buy tickets here: https://stza.co/~PDXM?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDXM-1L?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nationwide Arena\, 200 W Nationwide Blvd\, Columbus\, OH
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Islanders
+END:VALARM
+DTSTART:20220415T230000Z
+DTEND:20220416T020000Z
+UID:s1UdxF8hnSe4H-0uO4V8DJM6@stanza.co
+SUMMARY:Canadiens vs. Islanders
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDX$?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDX$-y?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Capitals
+END:VALARM
+DTSTART:20220416T230000Z
+DTEND:20220417T020000Z
+UID:5jevapGNqNZWgNqK4aDybarW@stanza.co
+SUMMARY:Canadiens vs. Capitals
+DESCRIPTION:Go Habs Go!\nWatch live on TVAS or CITY or SNE\n\n🎟️ Buy tickets here: https://stza.co/~PDYb?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDYb-3t?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Wild
+END:VALARM
+DTSTART:20220419T230000Z
+DTEND:20220420T020000Z
+UID:6GJOxdYbWD8Avxo-LtVrvXGU@stanza.co
+SUMMARY:Canadiens vs. Wild
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDYm?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDYm-17?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Flyers
+END:VALARM
+DTSTART:20220421T230000Z
+DTEND:20220422T020000Z
+UID:bESgFY0X_pJuz6JGjEdztDLO@stanza.co
+SUMMARY:Canadiens vs. Flyers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDYM?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDYM-5?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens at Senators
+END:VALARM
+DTSTART:20220423T230000Z
+DTEND:20220424T020000Z
+UID:_gN-jAkkcMXO5VMoL1-irvJG@stanza.co
+SUMMARY:Canadiens at Senators
+DESCRIPTION:Go Habs Go!\nWatch live on CBC or TVAS or CITY\n\n🎟️ Buy tickets here: https://stza.co/~PDZ1?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDZ1-2P?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Canadian Tire Centre\, 1000 Palladium Dr\, Ottawa\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Sabres
+END:VALARM
+DTSTART:20220426T230000Z
+DTEND:20220427T020000Z
+UID:4-PiJ9_2lQdgmr9_2-uZq0hS@stanza.co
+SUMMARY:Canadiens vs. Sabres
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDZf?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDZf-3w?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Canadiens vs. Panthers
+END:VALARM
+DTSTART:20220429T230000Z
+DTEND:20220430T020000Z
+UID:NneSI32mW9yxCpwSol5hyEHu@stanza.co
+SUMMARY:Canadiens vs. Panthers
+DESCRIPTION:Go Habs Go!\nWatch live on RDS or TSN2\n\n🎟️ Buy tickets here: https://stza.co/~PDZH?trk=NlcZ\n\n🏒  Shop Montreal Canadiens https://stza.co/+PDZH-2i?trk=NlcZ\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Bell Centre\, 1909 Avenue des Canadiens-de-Montréal\, Montréal\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20211014T181758Z
+CREATED:20211014T181758Z
+LAST-MODIFIED:20211014T181758Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

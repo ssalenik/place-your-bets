@@ -1,7 +1,10 @@
 const winston = require('winston');
 const Discord = require('discord.js');
+const fetch = require('node-fetch');
 var auth = require('./auth.json');
 var nodeCleanup = require('node-cleanup');
+
+
 
 // Configure logger settings
 const logger = winston.createLogger({
@@ -32,6 +35,8 @@ client.on("ready", () => {
     })
 })
 
+
+
 client.on('message', msg => {
     logger.info(`Got message: ${msg}`)
     if (msg.content === '!ping') {
@@ -53,13 +58,45 @@ client.on('message', msg => {
     }
 });
 
+// Check everyday to see if there is a game and send message to channel
+const checkSchedule = () => {
+    const habsGame = "https://statsapi.web.nhl.com/api/v1/schedule?teamId=8";
+  
+    fetch(habsGame)
+      .then((response) => {
+        return response.json();
+      })
+      .then((data) => {
+        const schedule = data;
+        if (schedule.totalGames === 1) {
+           client.channels.cache.get(`798939751075282977`).send(`There is a game today!! \n Home team: ${schedule.dates[0].games[0].teams.home.team.name} \n Visiting team: ${schedule.dates[0].games[0].teams.away.team.name}`);
+        }
+      });
+  };
+
+
+/*
+  client.on('ready', () => {
+    checkSchedule();
+});
+*/
+client.on('message', msg => {
+    if (msg.content === 'game?') {
+        checkSchedule();
+    }
+});
+
+//other random stuff
+client.on('message', msg => {
+    if (msg.content === '!hello') {
+        msg.channel.send(`Hello ${msg.guild.name}`);
+    }
+});
 
 client.on('message', msg => {
+    let memberList = msg.channel.members.array();
     if (msg.content === '!list') {
-        const memberList = msg.guild.members.fetch().then(console.log).catch(console.error);
-        // returns two users const memberList = msg.channel.members.map(id => id.user); 
-        msg.channel.send(`Hello ${msg.guild.name}`);
-        msg.channel.send(`${memberList}`);
+        msg.channel.send(`Server name: ${msg.guild.name}\nTotal members: ${msg.guild.memberCount}\nMembers: ${memberList}`);
     }
 });
 
