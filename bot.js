@@ -59,21 +59,22 @@ client.on('message', msg => {
 });
 
 // Check everyday to see if there is a game and send message to channel
-const checkSchedule = () => {
-    const habsGame = "https://statsapi.web.nhl.com/api/v1/schedule?teamId=8";
-  
-    fetch(habsGame)
-      .then((response) => {
-        return response.json();
-      })
-      .then((data) => {
-        const schedule = data;
-        if (schedule.totalGames === 1) {
-           client.channels.cache.get(`798939751075282977`).send(`There is a game today!! \n Home team: ${schedule.dates[0].games[0].teams.home.team.name} \n Visiting team: ${schedule.dates[0].games[0].teams.away.team.name}`);
-        }
-      });
-  };
-
+async function checkSchedule() {
+    try {
+      const habsGame = "https://statsapi.web.nhl.com/api/v1/schedule?teamId=8";
+      const response = await fetch(habsGame);
+      const schedule = await response.json();
+      if (schedule.totalGames === 1) {
+        client.channels.cache
+          .get(`798939751075282977`)
+          .send(
+            `There is a game today!! \n Home team: ${schedule.dates[0].games[0].teams.home.team.name} \n Visiting team: ${schedule.dates[0].games[0].teams.away.team.name}`
+          );
+      }
+    } catch (err) {
+      console.log({ err });
+    }
+  }
 
 /*
   client.on('ready', () => {
