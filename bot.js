@@ -59,7 +59,7 @@ client.on('message', msg => {
 });
 
 // Check everyday to see if there is a game and send message to channel
-async function checkSchedule() {
+const checkSchedule = async () => {
     try {
       const habsGame = "https://statsapi.web.nhl.com/api/v1/schedule?teamId=8";
       const response = await fetch(habsGame);
@@ -75,6 +75,8 @@ async function checkSchedule() {
       console.log({ err });
     }
   }
+
+//GOAL BOT
 
 /*
   client.on('ready', () => {
